@@ -1,0 +1,2 @@
+# CmakeSeries
+hands on cmake
